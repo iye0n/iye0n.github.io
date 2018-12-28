@@ -7,7 +7,7 @@ Webhacking.kr 14
 
 <img width="365" alt="webhacking kr-14-2" src="https://user-images.githubusercontent.com/45537913/50507215-dc25b200-0abf-11e9-8eb7-673715831c4a.png">
 
-function ck( )가 정의되어있다. ul이 pw.input_pwd.value일때 password is ~ 하면서 password가 나온다는 것을 알수 있다. ul이 정의 되있는것을 보면 url에서 .kr이 있는 인덱스를 저장하고 다시 이 인덱스를 30곱한 값이다.
+function ck( )가 정의되어있다. ul이 pw.input_pwd.value일때 password is ~ 하면서 password가 나온다는 것을 알수 있다. ul이 정의 되어있는것을 보면 url에서 .kr이 있는 인덱스를 저장하고 다시 이 인덱스를 30곱한 값이다.
 
 .kr은 18번째에 있으나 index는 0부터 시작이므로 17 이 저장된다. 즉 마지막에 ul에 저장되는 값은 17*30 = 510 이므로 값을 아까 그 check에 넣으면 아래처럼 암호가 나온다.
 
