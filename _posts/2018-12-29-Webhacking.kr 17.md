@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Webhacking.kr join"
+title: "Webhacking.kr 17"
 subtitle: ""
 date: 2018-12-29 18:33:29
 background: '/img/bg-post.jpg'
