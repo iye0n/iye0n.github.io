@@ -9,7 +9,9 @@ background: '/PATH_TO_IMAGE'
 Webhacking.kr - join
 ====================
 
-사이트에 처음 들어가게 되면, 아래와 같이 로그인 화면만 있고 계정 가입 화면은 없다.<img src="https://user-images.githubusercontent.com/45537913/50384252-d3bb2900-0705-11e9-8a6e-6d18ce6d683a.jpg" width="400" height="300">
+사이트에 처음 들어가게 되면, 아래와 같이 로그인 화면만 있고 계정 가입 화면은 없다.
+
+<img src="https://user-images.githubusercontent.com/45537913/50384252-d3bb2900-0705-11e9-8a6e-6d18ce6d683a.jpg" width="400" height="300">
 
 그렇다면 가입 버튼을 띄워야한다는 소리일것이므로 크롬 브라우져에서 F12를 눌러 소스를 보았다.
 
