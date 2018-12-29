@@ -11,6 +11,7 @@ github_username:   iye0n
 facebook_username: none
 
 # Build settings
+category_dir: category/
 markdown:          kramdown
 paginate:          5
 paginate_path:     "/posts/page:num/"
