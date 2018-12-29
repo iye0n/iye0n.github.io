@@ -3,6 +3,7 @@ layout: post
 title: "Webhacking.kr join"
 subtitle: ""
 date: 2018-12-25 18:33:29
+categories: Webhacking.kr
 background: '/img/bg-post.jpg'
 ---
 
