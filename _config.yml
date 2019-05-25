@@ -1,9 +1,9 @@
 title:             Study Blog
 email:             nay0824@korea.ac.kr
-description:       A Blog for study security
+description:       A Blog for study cyber security
 author:            
 baseurl:           
-url:               "http://blackrockdigital.github.io"
+url:               "http://iye0n.github.io"
 
 # Social Profiles
 twitter_username:  none
@@ -11,6 +11,7 @@ github_username:   iye0n
 facebook_username: none
 
 # Build settings
+# category_dir: category/
 markdown:          kramdown
 paginate:          5
 paginate_path:     "/posts/page:num/"

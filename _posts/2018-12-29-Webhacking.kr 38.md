@@ -1,10 +1,19 @@
 ---
+<<<<<<< HEAD
 
 layout: post title: "Webhacking.kr 38" subtitle: "" date: 2018-12-29 19:15:29
 
 background: '/img/bg-post.jpg'
 ------------------------------
 
+=======
+layout: post
+title: "Webhacking.kr 38"
+subtitle: ""
+date: 2018-12-29 18:33:29
+background: '/img/bg-post.jpg'
+---
+>>>>>>> 07afa04ce6553aa193851b6f41caf814b32d2f42
 Webhacking.kr 38
 ================
 
