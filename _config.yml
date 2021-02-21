@@ -2,7 +2,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 title: "Stupidly Honest"
-favicon: favicon.ico
+favicon: assets/img/icons/github.png
 description: >- # this means to ignore newlines until "baseurl:"
   "everything what I do"
 baseurl: #"/bay" # the subpath of the site
