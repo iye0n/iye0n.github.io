@@ -4,19 +4,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
-author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-name:    Nayeon Lee
+author-image:   4.jpg
+author-job:     Student
+author-email:   nay0824@korea.ac.kr # Add your email for contant form.
+#author-twitter: artemsheludko_ # Add your twitter account
+about-author:   
 
 # Social settings
-social-twitter:   artemsheludko_
+social-twitter:   #artemsheludko_
 social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
+social-github:    iye0n
+social-pinterest: #artemsheludko
+social-instagram: #artemsheludko_
 social-youtube:
 social-vk:   
 social-linkedin:
